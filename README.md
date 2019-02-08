@@ -1,5 +1,5 @@
 # bandersnatch-engine
-Create your own adventure game
+Create your own adventure game here
 
 ![alt text](https://i.imgur.com/Nh8cTSr.png)
 
