@@ -29,7 +29,7 @@ A decision may be followed by 0 or more decisons or 0 or more observations. like
 
 JSON example
 
-DECISION
+DECISION MAKER
 
 {
 images: [],
